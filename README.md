@@ -1,3 +1,12 @@
+> **BrainSAIT note.** This fork's GitHub Pages URL (https://fadil369.github.io/workflow.github.io/) forwards to the
+> BrainSAIT Innovation Lab landing at https://fadil369.github.io/bilab/ (source: `bilab/` in
+> [Fadil369/fadil369.github.io](https://github.com/Fadil369/fadil369.github.io)). Only `index.html`, `404.html` and
+> `.nojekyll` serve that redirect; the starter workflows below are upstream content. BrainSAIT's own reusable
+> workflows live in [Fadil369/B.I.Lab](https://github.com/Fadil369/B.I.Lab).
+>
+> **ملاحظة برينسايت.** رابط GitHub Pages لهذا المستودع يحوّل الزائر إلى صفحة مختبر برينسايت للابتكار على
+> https://fadil369.github.io/bilab/ ، أما سير العمل أدناه فهو محتوى المصدر الأصلي.
+
 
 ## Starter Workflows
 
